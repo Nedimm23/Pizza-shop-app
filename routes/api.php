@@ -2,6 +2,8 @@
 
 use Illuminate\Http\Request;
 use app\Http\Middleware\cors;
+use Illuminate\Support\Facades\Route;
+
 /*
 |--------------------------------------------------------------------------
 | API Routes
